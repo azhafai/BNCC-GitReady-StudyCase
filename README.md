@@ -37,7 +37,7 @@ Live Demo: [BNCC GitReady Study Case](https://azhafai.github.io/BNCC-GitReady-St
 | Nama Anggota | Role | Kontribusi |
 |---|---|---|
 | Azha Fabian Faizara | Project Initiator | Membuat repository, mengatur akses kolaborator, dan menambahkan `index.html` |
-| Ryousuke Ikhsan | Styling Engineer | Membuat branch `styling`, menambahkan `style.css`, dan menghubungkan CSS dengan `index.html` |
+| Ryosuke Ikhsan | Styling Engineer | Membuat branch `styling`, menambahkan `style.css`, dan menghubungkan CSS dengan `index.html` |
 | Christopher Louis | Script Engineer | Membuat branch `script`, menambahkan `script.js`, dan menghubungkan JavaScript dengan `index.html` |
 
 ---
