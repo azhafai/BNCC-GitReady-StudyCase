@@ -55,6 +55,4 @@ Selain itu, kami memahami pentingnya pembagian tugas dan komunikasi antar anggot
 Clone repository:
 
 ```bash
-git clone (https://azhafai.github.io/BNCC-GitReady-StudyCase/)
-   ```bash
-   git clone <url-repo-kalian>
+git clone https://github.com/azhafai/BNCC-GitReady-StudyCase.git
