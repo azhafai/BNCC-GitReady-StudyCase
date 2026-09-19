@@ -52,7 +52,9 @@ Selain itu, kami memahami pentingnya pembagian tugas dan komunikasi antar anggot
 
 ## How to Run
 
-1. Clone repository ini:
+Clone repository:
 
+```bash
+git clone (https://azhafai.github.io/BNCC-GitReady-StudyCase/)
    ```bash
    git clone <url-repo-kalian>
